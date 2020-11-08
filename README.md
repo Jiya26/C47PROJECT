@@ -1,1 +1,2 @@
-# C47PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
